@@ -18,19 +18,6 @@ import Darwin
 
 var winOptionSelected = 0
 var winOptionChanged = 0
-    
-/*
-var DisclosedChoice = -1
-var changeMind = -1
-    
-    repeat {
-        DisclosedChoice = Int(arc4random_uniform(3))
-    } while DisclosedChoice == prizeOption || DisclosedChoice == choosenOption
-    
-    repeat {
-        changeMind = Int(arc4random_uniform(3))
-    } while changeMind == DisclosedChoice || changeMind == choosenOption
-*/
 
 for i in 0...99{
     
