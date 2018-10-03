@@ -35,9 +35,8 @@ func randSumOfTwoNums(_ arr: [Int], _ totalSumOfTwoNums: Int) -> [Int] {
 
 //.  Check the condition as:
 
-let randSumOfTwoNums = [2,3,3,1]
-let totalSumOfTwoNums  = 6
-randSumOfTwoNums(arr, totalSumOfTwoNums)
-
+let arr = [3,4,1,7,8,5,4,3,6,4,1]
+let totalSumOfTwoNums  = 2
+randSumOfTwoNums(arr, totalSumOfTwoNums)   //returns [2, 10]
 
 
